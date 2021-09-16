@@ -9,6 +9,10 @@
   color: #40342f;
 }
 
+.byline {
+  text-align: center;
+}
+
 h1,
 h2,
 .current-temp {
@@ -96,4 +100,8 @@ form {
 
 .converter a:hover {
   color: #40342f;
+}
+
+.github-link {
+  text-decoration: none;
 }
